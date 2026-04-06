@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Image Gen",
+  "description": "A high-quality text-to-image generator powered by Stable Diffusion XL via Hugging Face.",
+  "requestFramePermissions": []
+}
